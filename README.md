@@ -1,2 +1,2 @@
-# chapter-data-structures-in-python
-Chapter of data structures in Python.
+# chapter-structuring-data-with-python
+Chapter: Structuring data with Python.
